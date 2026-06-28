@@ -75,10 +75,3 @@ The project is structured for easy extension:
 -   `components/LBCanvas.tsx`: Modify the visualization logic or styling of the system components.
 -   `components/Visualizer.tsx`: Adjust the core simulation state and control panel.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Built for learning and exploring the beauty of distributed systems architecture.
