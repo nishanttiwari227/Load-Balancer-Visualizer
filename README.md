@@ -34,8 +34,8 @@ Load balancing is a critical component of modern distributed systems. This proje
 
 ## 💻 Tech Stack
 
--   **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
--   **Language:** [TypeScript](https://www.typescriptlang.org/)
+-   **Library/Framework:** React.js, Next.js 14(App Router)
+-   **Language:**  JavaScript, TypeScript
 -   **Rendering:** HTML5 Canvas API (optimized with React Refs)
 -   **Styling:** Modern Vanilla CSS with CSS Variables
 -   **Components:** Dynamic imports for client-side heavy visualization
